@@ -9,12 +9,16 @@ img{
 .um{
 text-align: center;
 color: purple;
+font-size: large;
 }
 
 h1{
     background-color: purple;
     color: white;
-    font-size: medium;
+    width: 100%;
+    text-align: left;
+    
+    
 }
 
 .alinhar{
@@ -29,11 +33,21 @@ h1{
     
 }
 
-hr{
+p{
+    font-size:medium;
+}
+
+#linha{
 width: 45%;
 border-color: antiquewhite;
 }
 
-p{
-    font-size: small;
+.letra{
+    font-size: medium;
+    color: #7c7c7c;
 }
+
+hr{
+    border-color: antiquewhite;
+}
+ 
